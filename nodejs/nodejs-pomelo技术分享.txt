@@ -1,0 +1,38 @@
+1.javascript的资料：
+   1.1 http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/    by Dmitry Soshnikov  
+         （职业概述
+Software engineer; computer science researcher; programming languages design and implementation; ECMAScript theorist.
+
+Author of the "ECMAScript in detail" series -- theoretical aspects of ECMAScript design and ECMA-262 specification -- http://dmitrysoshnikov.com/ecmascript/
+
+Independent JavaScript expert.
+
+Hobbies: write music; learning foreign languages.
+更多：https://www.linkedin.com/in/dsoshnikov）
+   1.2 《JavaScript- The Definitive Guide, 6th Edition》，《JavaScript权威指南第6版中文版》，《JavaScript-Core-and-Practice-V0.9.9b》
+   1.3 https://cnodejs.org/topic/54d06d46ef1b48510c27e25e
+
+2.nodejs的资料
+   2.1 node入门：
+      2.1.1 node官网：http://nodejs.org/
+      2.1.2 node中文社区：https://cnodejs.org/
+      2.1.3 https://cnodejs.org/getstart 比较强大的入门资料
+   2.2 我自己用node开发的测试mobile api的小工具 
+       A.第一版：比较粗糙，见test.js , commandCfg.js 
+       B.第二版：智能，灵活，产品级的，但是才完成20%，哈哈 。见https://github.com/hanzhong-yan/apiTest
+   2.3 mobile api项目的打包工具，比较简单 见deployComZip.js
+   2.4 认真的读《深入浅出node js》 （阿里的朴灵 著），这本书我有，见祥哥也有一本，欢迎借阅
+   2.5 我的node执行机制的体会,切身体会,我就是node引擎,就是那个cpu  ： https://cnodejs.org/topic/54d6c6e84390c3987d1228d2
+我在cnodejs.org上发的一个帖子，是我对node的理解和生活体会，哈哈
+
+
+3.nodejs的现况及我的看法
+   2014年node分家了，现在有一个IOjs，其实他们是一回事。我觉得，这样会更加促进node的发展，因为大家有竞争了，大家会相互学习、竞争。大家其实都是开源的，只不过node是被云服务公司Joyent管理，而IOjs是开源社区的开发者管理的，在管理上更自由。目前CNode社区也在积极的进行IOjs的翻译和整理，活跃度高于当年的node的中文化，因为现在参与node的公司和个人越来越多。
+   node分家事件：
+
+4.无意中见到的socketio在node上的案例分享
+  https://cnodejs.org/topic/5492ba8b61491ead0cc7c018
+
+
+5.pemolo分享：
+
